@@ -1,2 +1,2 @@
 # anime-website-
-Anime Website UI designed using Figma
+Anime Website UI designed using Figma.
